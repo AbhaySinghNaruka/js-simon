@@ -1,0 +1,11 @@
+.game-containers{
+    display: none;
+}
+
+.game-containers.show {
+    display: block;
+}
+
+.numbers-containers.hidden{
+    display: none;
+}
